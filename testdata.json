@@ -1,0 +1,32 @@
+{
+  "0": {
+    "correct": 0,
+    "answers": {
+      "0": "42",
+      "1": "pie",
+      "2": "yes",
+      "3": "n/a"
+    },
+    "question": "what is the meaning of life?"
+  },
+  "1": {
+    "correct": 1,
+    "answers": {
+      "0": "Everyone!",
+      "1": "me? is it me?",
+      "2": "I am!"
+    },
+    "question": "who is a good boy?"
+  },
+  "2": {
+    "correct": 3,
+    "answers": {
+      "0": "black",
+      "1": "white",
+      "2": "blue",
+      "3": "green",
+      "4": "red"
+    },
+    "question": "what is the best colour?"
+  }
+}
